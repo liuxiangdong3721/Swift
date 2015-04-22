@@ -7,46 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		149FE8AC1AE571D900323A45 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149FE8AB1AE571D900323A45 /* AppDelegate.swift */; };
-		149FE8AE1AE571D900323A45 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149FE8AD1AE571D900323A45 /* ViewController.swift */; };
-		149FE8B11AE571D900323A45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 149FE8AF1AE571D900323A45 /* Main.storyboard */; };
-		149FE8B31AE571D900323A45 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 149FE8B21AE571D900323A45 /* Images.xcassets */; };
-		149FE8B61AE571D900323A45 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 149FE8B41AE571D900323A45 /* LaunchScreen.xib */; };
-		149FE8C21AE571D900323A45 /* swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149FE8C11AE571D900323A45 /* swiftTests.swift */; };
+		140444A71AE7BF5B0050E7FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140444A61AE7BF5B0050E7FF /* AppDelegate.swift */; };
+		140444A91AE7BF5B0050E7FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140444A81AE7BF5B0050E7FF /* ViewController.swift */; };
+		140444AC1AE7BF5B0050E7FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 140444AA1AE7BF5B0050E7FF /* Main.storyboard */; };
+		140444AE1AE7BF5B0050E7FF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 140444AD1AE7BF5B0050E7FF /* Images.xcassets */; };
+		140444B11AE7BF5B0050E7FF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 140444AF1AE7BF5B0050E7FF /* LaunchScreen.xib */; };
+		140444BD1AE7BF5B0050E7FF /* swiftLearningTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140444BC1AE7BF5B0050E7FF /* swiftLearningTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		149FE8BC1AE571D900323A45 /* PBXContainerItemProxy */ = {
+		140444B71AE7BF5B0050E7FF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 149FE89E1AE571D900323A45 /* Project object */;
+			containerPortal = 140444991AE7BF5B0050E7FF /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 149FE8A51AE571D900323A45;
-			remoteInfo = swift;
+			remoteGlobalIDString = 140444A01AE7BF5B0050E7FF;
+			remoteInfo = swiftLearning;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		149FE8A61AE571D900323A45 /* swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		149FE8AA1AE571D900323A45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		149FE8AB1AE571D900323A45 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		149FE8AD1AE571D900323A45 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		149FE8B01AE571D900323A45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		149FE8B21AE571D900323A45 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		149FE8B51AE571D900323A45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		149FE8BB1AE571D900323A45 /* swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		149FE8C01AE571D900323A45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		149FE8C11AE571D900323A45 /* swiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftTests.swift; sourceTree = "<group>"; };
+		140444A11AE7BF5B0050E7FF /* swiftLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		140444A51AE7BF5B0050E7FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		140444A61AE7BF5B0050E7FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		140444A81AE7BF5B0050E7FF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		140444AB1AE7BF5B0050E7FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		140444AD1AE7BF5B0050E7FF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		140444B01AE7BF5B0050E7FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		140444B61AE7BF5B0050E7FF /* swiftLearningTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftLearningTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		140444BB1AE7BF5B0050E7FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		140444BC1AE7BF5B0050E7FF /* swiftLearningTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftLearningTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		149FE8A31AE571D900323A45 /* Frameworks */ = {
+		1404449E1AE7BF5B0050E7FF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		149FE8B81AE571D900323A45 /* Frameworks */ = {
+		140444B31AE7BF5B0050E7FF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -56,58 +56,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		149FE89D1AE571D900323A45 = {
+		140444981AE7BF5B0050E7FF = {
 			isa = PBXGroup;
 			children = (
-				149FE8A81AE571D900323A45 /* swift */,
-				149FE8BE1AE571D900323A45 /* swiftTests */,
-				149FE8A71AE571D900323A45 /* Products */,
+				140444A31AE7BF5B0050E7FF /* swiftLearning */,
+				140444B91AE7BF5B0050E7FF /* swiftLearningTests */,
+				140444A21AE7BF5B0050E7FF /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		149FE8A71AE571D900323A45 /* Products */ = {
+		140444A21AE7BF5B0050E7FF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				149FE8A61AE571D900323A45 /* swift.app */,
-				149FE8BB1AE571D900323A45 /* swiftTests.xctest */,
+				140444A11AE7BF5B0050E7FF /* swiftLearning.app */,
+				140444B61AE7BF5B0050E7FF /* swiftLearningTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		149FE8A81AE571D900323A45 /* swift */ = {
+		140444A31AE7BF5B0050E7FF /* swiftLearning */ = {
 			isa = PBXGroup;
 			children = (
-				149FE8AB1AE571D900323A45 /* AppDelegate.swift */,
-				149FE8AD1AE571D900323A45 /* ViewController.swift */,
-				149FE8AF1AE571D900323A45 /* Main.storyboard */,
-				149FE8B21AE571D900323A45 /* Images.xcassets */,
-				149FE8B41AE571D900323A45 /* LaunchScreen.xib */,
-				149FE8A91AE571D900323A45 /* Supporting Files */,
+				140444A61AE7BF5B0050E7FF /* AppDelegate.swift */,
+				140444A81AE7BF5B0050E7FF /* ViewController.swift */,
+				140444AA1AE7BF5B0050E7FF /* Main.storyboard */,
+				140444AD1AE7BF5B0050E7FF /* Images.xcassets */,
+				140444AF1AE7BF5B0050E7FF /* LaunchScreen.xib */,
+				140444A41AE7BF5B0050E7FF /* Supporting Files */,
 			);
-			path = swift;
+			path = swiftLearning;
 			sourceTree = "<group>";
 		};
-		149FE8A91AE571D900323A45 /* Supporting Files */ = {
+		140444A41AE7BF5B0050E7FF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				149FE8AA1AE571D900323A45 /* Info.plist */,
+				140444A51AE7BF5B0050E7FF /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		149FE8BE1AE571D900323A45 /* swiftTests */ = {
+		140444B91AE7BF5B0050E7FF /* swiftLearningTests */ = {
 			isa = PBXGroup;
 			children = (
-				149FE8C11AE571D900323A45 /* swiftTests.swift */,
-				149FE8BF1AE571D900323A45 /* Supporting Files */,
+				140444BC1AE7BF5B0050E7FF /* swiftLearningTests.swift */,
+				140444BA1AE7BF5B0050E7FF /* Supporting Files */,
 			);
-			path = swiftTests;
+			path = swiftLearningTests;
 			sourceTree = "<group>";
 		};
-		149FE8BF1AE571D900323A45 /* Supporting Files */ = {
+		140444BA1AE7BF5B0050E7FF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				149FE8C01AE571D900323A45 /* Info.plist */,
+				140444BB1AE7BF5B0050E7FF /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -115,60 +115,60 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		149FE8A51AE571D900323A45 /* swift */ = {
+		140444A01AE7BF5B0050E7FF /* swiftLearning */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 149FE8C51AE571D900323A45 /* Build configuration list for PBXNativeTarget "swift" */;
+			buildConfigurationList = 140444C01AE7BF5B0050E7FF /* Build configuration list for PBXNativeTarget "swiftLearning" */;
 			buildPhases = (
-				149FE8A21AE571D900323A45 /* Sources */,
-				149FE8A31AE571D900323A45 /* Frameworks */,
-				149FE8A41AE571D900323A45 /* Resources */,
+				1404449D1AE7BF5B0050E7FF /* Sources */,
+				1404449E1AE7BF5B0050E7FF /* Frameworks */,
+				1404449F1AE7BF5B0050E7FF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = swift;
-			productName = swift;
-			productReference = 149FE8A61AE571D900323A45 /* swift.app */;
+			name = swiftLearning;
+			productName = swiftLearning;
+			productReference = 140444A11AE7BF5B0050E7FF /* swiftLearning.app */;
 			productType = "com.apple.product-type.application";
 		};
-		149FE8BA1AE571D900323A45 /* swiftTests */ = {
+		140444B51AE7BF5B0050E7FF /* swiftLearningTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 149FE8C81AE571D900323A45 /* Build configuration list for PBXNativeTarget "swiftTests" */;
+			buildConfigurationList = 140444C31AE7BF5B0050E7FF /* Build configuration list for PBXNativeTarget "swiftLearningTests" */;
 			buildPhases = (
-				149FE8B71AE571D900323A45 /* Sources */,
-				149FE8B81AE571D900323A45 /* Frameworks */,
-				149FE8B91AE571D900323A45 /* Resources */,
+				140444B21AE7BF5B0050E7FF /* Sources */,
+				140444B31AE7BF5B0050E7FF /* Frameworks */,
+				140444B41AE7BF5B0050E7FF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				149FE8BD1AE571D900323A45 /* PBXTargetDependency */,
+				140444B81AE7BF5B0050E7FF /* PBXTargetDependency */,
 			);
-			name = swiftTests;
-			productName = swiftTests;
-			productReference = 149FE8BB1AE571D900323A45 /* swiftTests.xctest */;
+			name = swiftLearningTests;
+			productName = swiftLearningTests;
+			productReference = 140444B61AE7BF5B0050E7FF /* swiftLearningTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		149FE89E1AE571D900323A45 /* Project object */ = {
+		140444991AE7BF5B0050E7FF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = liuxiangdong;
 				TargetAttributes = {
-					149FE8A51AE571D900323A45 = {
+					140444A01AE7BF5B0050E7FF = {
 						CreatedOnToolsVersion = 6.3;
 					};
-					149FE8BA1AE571D900323A45 = {
+					140444B51AE7BF5B0050E7FF = {
 						CreatedOnToolsVersion = 6.3;
-						TestTargetID = 149FE8A51AE571D900323A45;
+						TestTargetID = 140444A01AE7BF5B0050E7FF;
 					};
 				};
 			};
-			buildConfigurationList = 149FE8A11AE571D900323A45 /* Build configuration list for PBXProject "swift" */;
+			buildConfigurationList = 1404449C1AE7BF5B0050E7FF /* Build configuration list for PBXProject "swiftLearning" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -176,29 +176,29 @@
 				en,
 				Base,
 			);
-			mainGroup = 149FE89D1AE571D900323A45;
-			productRefGroup = 149FE8A71AE571D900323A45 /* Products */;
+			mainGroup = 140444981AE7BF5B0050E7FF;
+			productRefGroup = 140444A21AE7BF5B0050E7FF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				149FE8A51AE571D900323A45 /* swift */,
-				149FE8BA1AE571D900323A45 /* swiftTests */,
+				140444A01AE7BF5B0050E7FF /* swiftLearning */,
+				140444B51AE7BF5B0050E7FF /* swiftLearningTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		149FE8A41AE571D900323A45 /* Resources */ = {
+		1404449F1AE7BF5B0050E7FF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				149FE8B11AE571D900323A45 /* Main.storyboard in Resources */,
-				149FE8B61AE571D900323A45 /* LaunchScreen.xib in Resources */,
-				149FE8B31AE571D900323A45 /* Images.xcassets in Resources */,
+				140444AC1AE7BF5B0050E7FF /* Main.storyboard in Resources */,
+				140444B11AE7BF5B0050E7FF /* LaunchScreen.xib in Resources */,
+				140444AE1AE7BF5B0050E7FF /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		149FE8B91AE571D900323A45 /* Resources */ = {
+		140444B41AE7BF5B0050E7FF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -208,46 +208,46 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		149FE8A21AE571D900323A45 /* Sources */ = {
+		1404449D1AE7BF5B0050E7FF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				149FE8AE1AE571D900323A45 /* ViewController.swift in Sources */,
-				149FE8AC1AE571D900323A45 /* AppDelegate.swift in Sources */,
+				140444A91AE7BF5B0050E7FF /* ViewController.swift in Sources */,
+				140444A71AE7BF5B0050E7FF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		149FE8B71AE571D900323A45 /* Sources */ = {
+		140444B21AE7BF5B0050E7FF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				149FE8C21AE571D900323A45 /* swiftTests.swift in Sources */,
+				140444BD1AE7BF5B0050E7FF /* swiftLearningTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		149FE8BD1AE571D900323A45 /* PBXTargetDependency */ = {
+		140444B81AE7BF5B0050E7FF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 149FE8A51AE571D900323A45 /* swift */;
-			targetProxy = 149FE8BC1AE571D900323A45 /* PBXContainerItemProxy */;
+			target = 140444A01AE7BF5B0050E7FF /* swiftLearning */;
+			targetProxy = 140444B71AE7BF5B0050E7FF /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		149FE8AF1AE571D900323A45 /* Main.storyboard */ = {
+		140444AA1AE7BF5B0050E7FF /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				149FE8B01AE571D900323A45 /* Base */,
+				140444AB1AE7BF5B0050E7FF /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		149FE8B41AE571D900323A45 /* LaunchScreen.xib */ = {
+		140444AF1AE7BF5B0050E7FF /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				149FE8B51AE571D900323A45 /* Base */,
+				140444B01AE7BF5B0050E7FF /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -255,7 +255,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		149FE8C31AE571D900323A45 /* Debug */ = {
+		140444BE1AE7BF5B0050E7FF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -299,7 +299,7 @@
 			};
 			name = Debug;
 		};
-		149FE8C41AE571D900323A45 /* Release */ = {
+		140444BF1AE7BF5B0050E7FF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -336,27 +336,27 @@
 			};
 			name = Release;
 		};
-		149FE8C61AE571D900323A45 /* Debug */ = {
+		140444C11AE7BF5B0050E7FF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = swift/Info.plist;
+				INFOPLIST_FILE = swiftLearning/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		149FE8C71AE571D900323A45 /* Release */ = {
+		140444C21AE7BF5B0050E7FF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = swift/Info.plist;
+				INFOPLIST_FILE = swiftLearning/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		149FE8C91AE571D900323A45 /* Debug */ = {
+		140444C41AE7BF5B0050E7FF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -368,14 +368,14 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = swiftTests/Info.plist;
+				INFOPLIST_FILE = swiftLearningTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swift.app/swift";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swiftLearning.app/swiftLearning";
 			};
 			name = Debug;
 		};
-		149FE8CA1AE571D900323A45 /* Release */ = {
+		140444C51AE7BF5B0050E7FF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -383,42 +383,42 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = swiftTests/Info.plist;
+				INFOPLIST_FILE = swiftLearningTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swift.app/swift";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swiftLearning.app/swiftLearning";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		149FE8A11AE571D900323A45 /* Build configuration list for PBXProject "swift" */ = {
+		1404449C1AE7BF5B0050E7FF /* Build configuration list for PBXProject "swiftLearning" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				149FE8C31AE571D900323A45 /* Debug */,
-				149FE8C41AE571D900323A45 /* Release */,
+				140444BE1AE7BF5B0050E7FF /* Debug */,
+				140444BF1AE7BF5B0050E7FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		149FE8C51AE571D900323A45 /* Build configuration list for PBXNativeTarget "swift" */ = {
+		140444C01AE7BF5B0050E7FF /* Build configuration list for PBXNativeTarget "swiftLearning" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				149FE8C61AE571D900323A45 /* Debug */,
-				149FE8C71AE571D900323A45 /* Release */,
+				140444C11AE7BF5B0050E7FF /* Debug */,
+				140444C21AE7BF5B0050E7FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		149FE8C81AE571D900323A45 /* Build configuration list for PBXNativeTarget "swiftTests" */ = {
+		140444C31AE7BF5B0050E7FF /* Build configuration list for PBXNativeTarget "swiftLearningTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				149FE8C91AE571D900323A45 /* Debug */,
-				149FE8CA1AE571D900323A45 /* Release */,
+				140444C41AE7BF5B0050E7FF /* Debug */,
+				140444C51AE7BF5B0050E7FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 149FE89E1AE571D900323A45 /* Project object */;
+	rootObject = 140444991AE7BF5B0050E7FF /* Project object */;
 }

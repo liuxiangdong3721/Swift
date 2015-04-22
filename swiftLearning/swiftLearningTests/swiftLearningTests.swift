@@ -1,15 +1,15 @@
 //
-//  swiftTests.swift
-//  swiftTests
+//  swiftLearningTests.swift
+//  swiftLearningTests
 //
-//  Created by Elvis on 15/4/21.
+//  Created by Elvis on 15/4/22.
 //  Copyright (c) 2015年 liuxiangdong. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class swiftTests: XCTestCase {
+class swiftLearningTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
